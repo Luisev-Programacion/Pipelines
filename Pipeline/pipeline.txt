@@ -1,0 +1,20 @@
+pipeline/
+│
+├── core/
+│   ├── watcher.py
+│   ├── processor.py
+│   ├── peliculas_id.py
+│   └── utils.py
+│
+├── pipelines/
+│   └── comscore_mexico_flash/
+│       ├── config.py
+│       ├── mapping.py
+│       └── pipeline.py
+│
+├── shared/
+│   ├── catalogo_peliculas.xlsx
+│   └── processed/
+│       └── comscore_mexico_flash.txt
+│
+└── run.py

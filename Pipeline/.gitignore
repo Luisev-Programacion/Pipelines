@@ -1,0 +1,12 @@
+from dotenv import load_dotenv
+load_dotenv("core/.env")
+core/.env
+**/.env
+tmp_test_db.py
+Diccionarios/Mapeo.xlsx
+Diccionarios/Catalogo_Eventos.xlsx
+**/debug-5430f9.log
+**/debug-702280.log
+**/__pycache__/
+*.pyc
+/.cursor
